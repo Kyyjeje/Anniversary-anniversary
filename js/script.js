@@ -1610,7 +1610,7 @@ function startIntro() {
 			showIntroText(countdown, true);
 			// CUSTOM1
 			setTimeout(() => {
-				showIntroText('Happy\birthday\Ajeng apriliana\🎂', false);
+				showIntroText('Happy\ Birthday\Ajeng apriliana\🎂', false);
 				
 				// Sau khi "HAPPY NEW YEAR" hiển thị 1 giây (0.8s animation + 0.2s), bắt đầu pháo hoa ngay
 				setTimeout(() => {
